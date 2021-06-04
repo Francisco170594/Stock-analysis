@@ -6,7 +6,7 @@ Overview of the project
  - To achieve this, we will use VBA to create a macro that iterates through a list of tickers and retrieves the data concerning total volume (wich reflects trading activity) and  yearly return of each stock.
  - In order to work with a larger dataset, our code should be refactor and bring a solution in less time than the original one.
 
-![2017 timer](2017%20Stock%20Analysis%20Timer.png)
-![2018 timer](2018%20Stock%20Analysis%20Timer.png)
-![Orininal code timers]
+![2017 timer](Images/2017%20Stock%20Analysis%20Timer.png)
+![2018 timer](Images/2018%20Stock%20Analysis%20Timer.png)
+![Orininal code timers](Images/Original%202017-2018%20Timer.png)
 
